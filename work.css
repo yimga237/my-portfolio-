@@ -1,0 +1,18 @@
+body{
+    background: url();
+}
+img{
+    border-radius: 50px;
+    box-shadow: 3px 3px 3px;
+    margin: 30px;
+    transition-duration: 0,25s;
+    cursor: pointer;
+
+}
+img:hover{
+    scale: 125%;
+    
+}
+body{
+    color: rgb(0, 0, 0);
+}   
